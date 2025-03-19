@@ -1,0 +1,25 @@
+{
+    "token": "VOTRE_TOKEN_BOT",
+    "clientId": "ID_DE_VOTRE_BOT",
+    "guildId": "ID_DE_VOTRE_SERVEUR",
+    "welcomeChannel": "ID_SALON_BIENVENUE",
+    "logsChannel": "ID_SALON_LOGS",
+    "ticketCategory": "ID_CATEGORIE_TICKETS",
+    "staffRole": "ID_ROLE_STAFF",
+    "embedSettings": {
+        "welcome": {
+            "title": "",
+            "description": "",
+            "color": "",
+            "image": "",
+            "thumbnail": ""
+        },
+        "goodbye": {
+            "title": "",
+            "description": "",
+            "color": "",
+            "image": "",
+            "thumbnail": ""
+        }
+    }
+}
